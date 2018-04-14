@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">FlashCardPlus</string>
+
+    <!--aim-->
+    <string name="aim_title">aim</string>
+    <string name="aim_content">・He aimed at the target.\n・She fired without aiming.</string>
+    <string name="aim_meaning">ねらう</string>
+
+    <!--angry-->
+    <string name="angry_title">angry</string>
+    <string name="angry_content">・get(become) angry\n・She was angry with her son without aiming.</string>
+    <string name="angry_meaning">怒って</string>
+
+    <!--cry-->
+    <string name="cry_title">cry</string>
+    <string name="cry_content">・He cried for joy.\n・She cried bitter tears.</string>
+    <string name="cry_meaning">泣く</string>
+
+    <!--divorce-->
+    <string name="divorce_title">divorce</string>
+    <string name="divorce_content">・She got a divorce from her husband.\n・He divorced his wife.</string>
+    <string name="divorce_meaning">離婚</string>
+
+    <!--read-->
+    <string name="read_title">read</string>
+    <string name="read_content">・read a book\n・She read three books in a week.</string>
+    <string name="read_meaning">読む</string>
+
+    <!--sing-->
+    <string name="sing_title">sing</string>
+    <string name="sing_content">・She sang to the piano.\n・The birds were singing in the trees.</string>
+    <string name="sing_meaning">歌う</string>
+
+    <!--surprise-->
+    <string name="surprise_title">surprise</string>
+    <string name="surprise_content">・His behavior surprised me.\n・I was surprised with the present from her.</string>
+    <string name="surprise_meaning">驚かせる</string>
+
+</resources>
